@@ -1,8 +1,11 @@
 @import url("/theme.park/css/addons/unraid/login-page/fallout/fallout-base.css");
 :root {
-    --main-bg-color: url(/css/addons/unraid/login-page/fallout/wallpaper/rocky-wall.png),
-    url(/css/addons/unraid/login-page/fallout/wallpaper/terminal2.jpg) center center/cover no-repeat fixed;
-    --logo: url(/css/addons/unraid/login-page/fallout/logo/lavendar_logo.png) center no-repeat;
+    --main-bg-color: url("/theme.park/css/addons/unraid/login-page/fallout/wallpaper/rocky-wall.png"),
+    url("/theme.park/css/addons/unraid/login-page/fallout/wallpaper/terminal2.jpg") center center/cover no-repeat fixed;
+    --logo: url("/theme.park/css/addons/unraid/login-page/fallout/logo/lavendar_logo.png") center no-repeat;
+    /* --main-bg-color: url(/css/addons/unraid/login-page/fallout/wallpaper/rocky-wall.png),
+    /* url(/css/addons/unraid/login-page/fallout/wallpaper/terminal2.jpg) center center/cover no-repeat fixed;
+    /*--logo: url(/css/addons/unraid/login-page/fallout/logo/lavendar_logo.png) center no-repeat;
     --text-color: #7A5F99;
     --input-color: #7A5F99;
     --link-color: #7A5F99;
